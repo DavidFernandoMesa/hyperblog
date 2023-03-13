@@ -1,6 +1,5 @@
 Hoy hablaremos de la historia de David
 
 David es una persona que tiene 19 años,
- estudia programación y vive en Colombia en la ciudad de manizales
-
-Mas tarde hablaremos mas a fondo de él.
+estudia programación y vive en Colombia en la ciudad de manizales
+Hoy hablaremos mas a fondo de él.
