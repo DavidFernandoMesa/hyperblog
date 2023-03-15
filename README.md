@@ -3,4 +3,6 @@
 
 ![](https://www.pockettactics.com/wp-content/sites/pockettactics/2022/10/genshin-impact-zhongli-1.jpg)
 
+*Creado por David Fernando Mesa
+
 ###AGREGO UNA IMAGEN DE MI PERSONAJE FAVORITO DE GENSHIN IMPACT
